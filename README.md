@@ -4,9 +4,6 @@ I’m creator of https://www.365layouts.com 🌱
 ## 365Layouts - web2print/Desktop Publishing 
 365Layouts is an open source desktop publishing system (DTP) . 365Layouts is building an online drag and drop design platform to help small business owners create advertising materials with our free design templates. 
 
-Out of scope (at least for near future) are Office documents (ODT, DOCX....), text files (notes) which usually are editable. In future 365Layouts might support Office documents (ODT etc), but that feature will be provided as plugins. 🤔
-
-
 ![alt text](https://github.com/ChristianKnedel/-DTPixler/blob/master/886059-b9484b3860278b75256c6e24aef4d2e165e6ce22.jpg "365Layouts Javascript DTP Client")
 
 ### Features
